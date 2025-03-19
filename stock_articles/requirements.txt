@@ -1,0 +1,17 @@
+selenium 
+webdriver-manager 
+pandas 
+pymongo 
+pythainlp 
+bs4
+transformers 
+torch 
+pandas 
+sentencepiece
+schedule
+apscheduler 
+pytz
+
+
+#pip install -r requirements.txt
+# git remote set-url origin git@github.com:sirinapa-git/Scrape_LLM.git

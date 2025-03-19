@@ -1,0 +1,5 @@
+savetocsv/
+# git rm -r --cached savetocsv
+# git add .gitignore
+# git commit -m "Ignore savetocsv folder"
+# git push origin main  # Change 'main' to your branch name if necessary

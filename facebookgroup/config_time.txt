@@ -1,0 +1,4 @@
+Config times for scheduler tasks ex.scrape_times=06:00,18:00 delete_times=15:50
+# scrape_times=06:00,18:00
+delete_times=01:00
+scrape_times=16:10

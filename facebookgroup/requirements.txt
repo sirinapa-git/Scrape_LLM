@@ -1,0 +1,55 @@
+mysql-connector-python 
+beautifulsoup4
+selenium
+webdriver-manager
+pytz
+uvicorn
+numpy
+onnxruntime
+sentencepiece
+torch
+transformers
+tokenizers
+pandas
+beautifulsoup4
+apscheduler
+# cryptography python-dotenv
+pymysql
+
+# #-------------------------------scrape.py-------------------------------
+# mysql-connector-python 
+# beautifulsoup4
+# selenium
+# webdriver-manager
+# pytz
+
+# #-------------------------------model.py-------------------------------
+# uvicorn
+# numpy
+# onnxruntime
+# sentencepiece
+# torch
+# transformers
+# tokenizers
+# pandas
+# beautifulsoup4
+
+# #-------------------------------pipeline-------------------------------
+# pip install apscheduler #job_chaining
+
+# #-------------------------------explain schedule-----------------------
+# cryptography python-dotenv = .env
+# scrape_data(ุ6 am,6 pm) -> model(after scrape_data ) -> config_daily (after scrape_data ) 
+# config_del(ุ1.00 am)
+                            # model(will collect not Duplicate if Duplicate but reaction update it will update only new reaction)
+                            # config_daily (will extract to 2 table daily_summary(tag+sentiment),tag_summary(count tag))
+
+
+# config_del(ุ1.00 am)
+# config_del(delete yesterday's post and sort top5 sentiment_post and delete except top5)
+
+
+# # scrape_data(ุ6 am,6 pm) 
+# # model ุ(6.10 am,6.10 pm)
+# # config_daily (ุ6.20 am,6.20 pm)
+# # config_del(ุ1.00 am)
