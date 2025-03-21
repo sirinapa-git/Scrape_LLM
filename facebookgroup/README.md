@@ -4,8 +4,10 @@
 This project collects data from a **Facebook group** and performs **sentiment analysis** on posts. The data is stored in a **MySQL database** and displayed on a **dashboard** for analysis.  
 
 ## **System Diagram**  
-- 📌 **System Overview** → ![System Diagram](facebookgroup\conf\png\sys.png)  
-- 📌 **Database Structure & Final Data** → ![Database](facebookgroup\conf\png\database.png)  
+- 📌 **System Overview** → 
+![System Diagram](facebookgroup\conf\png\sys.png)  
+- 📌 **Database Structure & Final Data** → 
+![Database](facebookgroup\conf\png\database.png)  
 
 ## **Project Workflow**  
 
