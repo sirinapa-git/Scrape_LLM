@@ -5,9 +5,9 @@ This project collects data from a **Facebook group** and performs **sentiment an
 
 ## **System Diagram**  
 - 📌 **System Overview** → 
-![System Diagram](facebookgroup\conf\png\sys.png)  
+![System Diagram](https://raw.githubusercontent.com/username/repository/main/facebookgroup/conf/png/sys.png)
 - 📌 **Database Structure & Final Data** → 
-![Database](facebookgroup\conf\png\database.png)  
+![Database](https://raw.githubusercontent.com/your-username/your-repository/main/facebookgroup/conf/png/database.png)
 
 ## **Project Workflow**  
 
